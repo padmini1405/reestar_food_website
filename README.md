@@ -18,7 +18,8 @@ It displays popular food items with images and includes a contact form for user 
 - CSS3
 
 ## How to view 
-You can access my website by visiting this [link] Feel free to explore the content and get in touch.
+You can access my website by visiting this https://padmini1405.github.io/reestar_food_website/
+Feel free to explore the content and get in touch.
  
 ## Purpose
 This project was built to practice basic frontend development concepts using HTML and CSS.
